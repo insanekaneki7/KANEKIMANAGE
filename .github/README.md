@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Noob-Mukesh/MukeshRobot/stargazers"><img src="https://img.shields.io/github/stars/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/insanekaneki7/KANEKIMANAGE/network/members"> <img src="https://img.shields.io/github/forks/Noob-Mukesh/MukeshRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/insanekaneki7/KANEKIMANAGE/network/members"> <img src="https://img.shields.io/github/forks/insanekaneki7/KANEKIMANAGEE?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Noob-mukesh/MukeshRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
